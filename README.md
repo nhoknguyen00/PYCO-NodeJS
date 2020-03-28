@@ -36,5 +36,7 @@ Request body:
 
 => Response:
 <code>You just add a todo: buy fish</code>
+
 <code>You just delete a todo: buy egg</code>
+
 <code>Your to do list: buy flower,buy fish,</code>
