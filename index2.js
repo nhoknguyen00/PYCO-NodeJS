@@ -3,7 +3,6 @@
 const http = require('http');
 
 http.createServer((req,res) => {
-    var resData;
     req.on('data', (data) => {
         res.end(data);
     })
