@@ -35,8 +35,9 @@ Request body:
 - Delete todo: <code>localhost:3000/?delete=buy egg</code>
 
 => Response:
-<code>You just add a todo: buy fish
 
-You just delete a todo: buy egg
+<code>You just add a todo: buy fish</code>
 
-Your to do list: buy flower,buy fish,</code>
+<code>You just delete a todo: buy egg</code>
+
+<code>Your to do list: buy flower,buy fish,</code>
